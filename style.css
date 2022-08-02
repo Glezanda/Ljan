@@ -1,4 +1,4 @@
-.menu li{
+.menu-li{
     display: inline-block;
 } 
 
@@ -8,7 +8,7 @@
     text-alingn: center;
 }
 
-.menu a{
+.menu-a{
     display: inline-block;
     color: white;
 
